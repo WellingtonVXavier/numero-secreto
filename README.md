@@ -1,2 +1,2 @@
 # numero-secreto
- Aula de javaScript
+ Aula de JavaScript
