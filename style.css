@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Krona+One&family=Montserrat:wght@400;600&family=Rubik&display=swap');
 
-:root{
+:root {
     --font-family: 'Montserrat', sans-serif;
     --bg-color: #E5F9DB;
     --primary-color: #83764F;
@@ -33,8 +33,8 @@ h3 {
 }
 
 .mensagem {
-font-size: 1.5em;
-margin-top: 40px;
+    font-size: 1.5em;
+    margin-top: 40px;
 }
 
 .box {
@@ -44,4 +44,14 @@ margin-top: 40px;
     padding: 10px;
     margin: 20px;
     border-radius: 15px;
+}
+
+.btn-jogar {
+    padding: 8px 15px;
+    border: 0;
+    background: var(--primary-color);
+    border-radius: 5px;
+    margin-top: 30px;
+    color: var(--bg-color);
+    font-family: var(--font-family);
 }
